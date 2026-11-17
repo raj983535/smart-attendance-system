@@ -183,6 +183,27 @@ The application features instant client-side mock authentication persisted via `
 
 ---
 
+## 🌐 Deploy to Netlify / Vercel
+
+This repository is pre-configured for zero-configuration deployments on **Netlify** and **Vercel**:
+
+- **Build Command**: `npm run build`
+- **Publish Directory**: `.next`
+- **Node Version**: `18.x` or higher
+- **Peer Dependencies**: Pre-configured via `.npmrc` (`legacy-peer-deps=true`) to avoid build-time dependency conflicts.
+
+---
+
+## 👨‍💻 Author & Connect
+
+**Sahil Raj**
+
+- **GitHub**: [@raj983535](https://github.com/raj983535)
+- **X (Twitter)**: [@sahilraj369](https://x.com/sahilraj369)
+- **Repository**: [smart-attendance-system](https://github.com/raj983535/smart-attendance-system)
+
+---
+
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
